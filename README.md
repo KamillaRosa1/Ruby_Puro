@@ -1,6 +1,6 @@
 <h1 align="center"> Ruby Puro </h1>
 
-<p align="justify"> Aqui estão as atividades de fixação (missões), atribuidas aos estudantes do curso de Ruby</p>
+<p align="center"> Aqui estão as atividades de fixação (missões), atribuidas aos estudantes do curso de Ruby</p>
 
 <h4 <b> Unidade 3: Estruturas de Controle </h4>
 
