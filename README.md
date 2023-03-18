@@ -4,7 +4,7 @@
 
 <h4 <b> Unidade 3: Estruturas de Controle </h4>
 
-   calculadora.rb 
+   calculadora.rb
     
 <h4 <b> Unidade 4: Collections</h4>
 <ol>
@@ -22,11 +22,13 @@
   <li> m2_verifica_cpf.rb</li>
 </ol>
 
-<h4 <b> Unidade 6: Programação Orientada a Objetos I<h/4>
+<h4 p <b> Unidade 6: Programação Orientada a Objetos I</h4></p> 
 
-
+   poo_i.rb
+   
 <h4 <b> Unidade 7: Programação Orientada a Objetos II<h/4>
 
+ 
 
 <h4 <b> Unidade 8: Ruby Avançado I<h/4>
 
