@@ -33,7 +33,3 @@
       <li>mercado.rb</li>
       <li>produto</li></ul>
 
-<h4 <b> Unidade 8: Ruby Avançado I</h4>
-
-
-<h4 <b> Unidade 9: Ruby Avançado II</h4>
